@@ -28,5 +28,4 @@ The transition model (T) and complete reward function (R) are not provided.
 - Follow the provided environment without modifying its layout.
 - Do not assume unspecified transition probabilities or environment behavior.
 - Keep environment logic separate from learning algorithms.
-- Do not implement Q-learning during the current lab.
 - Explain important implementation decisions.
