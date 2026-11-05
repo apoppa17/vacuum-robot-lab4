@@ -1,4 +1,3 @@
-
 ---
 name: code-reviewer
 description: Reviews Python code for correctness, readability, and compliance with the vacuum robot project requirements.
