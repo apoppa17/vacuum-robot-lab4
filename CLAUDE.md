@@ -2,9 +2,7 @@
 # Vacuum Robot Reinforcement Learning
 
 ## Project Overview
-This CS440 project focuses on a vacuum robot navigating a 4x4 grid environment using reinforcement learning. The goal is to eventually implement Q-learning.
-
-The current lab focuses on setting up context engineering strategies 1 and 4 rather than implementing the algorithm.
+This CS440 project focuses on a vacuum robot navigating a 4x4 grid environment using reinforcement learning. The goal is to implement Q-learning.
 
 ## Environment
 
