@@ -1,6 +1,8 @@
 ---
 name: vacuum-rl
-description: Reusable intructions on evaluating reinforcement learning (RL) for the vacuum robot. Explains the grid, reward system, defines Q-learning, hyperparameters, and assumptions.
+description: Reusable intructions on evaluating reinforcement learning (RL) for the vacuum robot. Explains the grid, reward system, defines Q-learning, hyperparameters, and assumptions. Use when implementing RL.
+tools: Skill, Read, Write, EnterPlanMode
+
 ---
 # Vacuum Robot Reinforcement Learning Skill
 
